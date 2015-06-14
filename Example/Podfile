@@ -1,0 +1,15 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'EasyYoutube_Example', :exclusive => true do
+  pod "EasyYoutube", :path => "../"
+end
+
+target 'EasyYoutube_Tests', :exclusive => true do
+  pod "EasyYoutube", :path => "../"
+
+  pod 'Quick'
+  pod 'Nimble'
+  pod 'FBSnapshotTestCase'
+  pod 'Nimble-Snapshots'
+end
