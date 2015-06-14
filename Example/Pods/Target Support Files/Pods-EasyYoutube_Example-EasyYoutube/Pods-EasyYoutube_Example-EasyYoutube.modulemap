@@ -1,0 +1,6 @@
+framework module EasyYoutube {
+  umbrella header "Pods-EasyYoutube_Example-EasyYoutube-umbrella.h"
+
+  export *
+  module * { export * }
+}
