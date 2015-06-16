@@ -8,8 +8,8 @@
 
 // EasyYoutube
 #define COCOAPODS_POD_AVAILABLE_EasyYoutube
-#define COCOAPODS_VERSION_MAJOR_EasyYoutube 0
-#define COCOAPODS_VERSION_MINOR_EasyYoutube 1
+#define COCOAPODS_VERSION_MAJOR_EasyYoutube 1
+#define COCOAPODS_VERSION_MINOR_EasyYoutube 0
 #define COCOAPODS_VERSION_PATCH_EasyYoutube 0
 
 // FBSnapshotTestCase
@@ -33,6 +33,6 @@
 // Quick
 #define COCOAPODS_POD_AVAILABLE_Quick
 #define COCOAPODS_VERSION_MAJOR_Quick 0
-#define COCOAPODS_VERSION_MINOR_Quick 4
-#define COCOAPODS_VERSION_PATCH_Quick 0
+#define COCOAPODS_VERSION_MINOR_Quick 3
+#define COCOAPODS_VERSION_PATCH_Quick 1
 

@@ -8,7 +8,7 @@ end
 target 'EasyYoutube_Tests', :exclusive => true do
   pod "EasyYoutube", :path => "../"
 
-  pod 'Quick'
+  pod 'Quick', '~> 0.3.1'
   pod 'Nimble'
   pod 'FBSnapshotTestCase'
   pod 'Nimble-Snapshots'

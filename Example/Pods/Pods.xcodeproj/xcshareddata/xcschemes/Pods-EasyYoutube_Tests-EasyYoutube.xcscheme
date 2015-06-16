@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8D621EC086376149FCD7FE5B"
+               BlueprintIdentifier = "8AF78504B55592CBDB982881"
                BuildableName = "EasyYoutube.framework"
                BlueprintName = "Pods-EasyYoutube_Tests-EasyYoutube"
                ReferencedContainer = "container:Pods.xcodeproj">

@@ -1,6 +1,6 @@
 # EasyYoutube
 
-[![CI Status](http://img.shields.io/travis/Christopher Francisco/EasyYoutube.svg?style=flat)](https://travis-ci.org/Christopher Francisco/EasyYoutube)
+[![CI Status](http://img.shields.io/travis/rephiscorth/EasyYoutube.svg?style=flat)](https://travis-ci.org/Christopher Francisco/EasyYoutube)
 [![Version](https://img.shields.io/cocoapods/v/EasyYoutube.svg?style=flat)](http://cocoapods.org/pods/EasyYoutube)
 [![License](https://img.shields.io/cocoapods/l/EasyYoutube.svg?style=flat)](http://cocoapods.org/pods/EasyYoutube)
 [![Platform](https://img.shields.io/cocoapods/p/EasyYoutube.svg?style=flat)](http://cocoapods.org/pods/EasyYoutube)
