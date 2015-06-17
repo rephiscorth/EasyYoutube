@@ -12,5 +12,5 @@ osx_image: beta-xcode6.3
 install:
 - gem install xcpretty --no-rdoc --no-ri --no-document --quiet
 script:
-- set -o pipefail && xctool test -workspace Example/EasyYoutube.xcworkspace -scheme EasyYoutube-Example -sdk iphonesimulator8.1 ONLY_ACTIVE_ARCH=NO | xcpretty -c
+- set -o pipefail && xctool test -workspace Example/EasyYoutube.xcworkspace -scheme EasyYoutube-Example -sdk iphonesimulator8.3 ONLY_ACTIVE_ARCH=NO | xcpretty -c
 - pod lib lint --quick
